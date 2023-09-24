@@ -44,9 +44,25 @@ a {
   color: black;
 }
 
+button {
+  padding: 10px;
+}
+
 
 .header, .footer {
   display: flex;
   justify-content: space-between;
   padding: 15px;
+}
+
+.left-links, .right-links {
+  display: flex;
+  gap: 20px;  
+}
+
+.content {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
 }
