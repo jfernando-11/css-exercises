@@ -1,18 +1,18 @@
-.class1 {
-    background-color: pink;
-    font-family: Verdana, sans-serif, 'DejaVu Sans';
+p {
+    background-color:pink;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
-#id1 {
+#two {
     color: blue;
     font-size: 36px;
 }
 
-.class2 {
+.three {
     font-size: 24px;
 }
 
-#id2 {
+#four {
     background-color: lightgreen;
     font-size: 24px;
     font-weight: bold;

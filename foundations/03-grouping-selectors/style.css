@@ -1,4 +1,17 @@
-.button-1,
+.yessir {
+    background-color: black;
+    color: white;
+}
+
+.nope {
+    background-color: yellow;
+}
+
+.yessir,
+.nope {
+    font-size: 28px;
+    font-family: Helvetica, 'Times new Roman', sans-serif;
+}.button-1,
 .button-2 {
     font-size: 28px;
     font-family: 'Times New Roman', Helvetica, sans-serif;
